@@ -1,2 +1,0 @@
-this is k1.txt file second line
-this is k1.txt file first line
